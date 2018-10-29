@@ -20,8 +20,8 @@
   "author": "Danil Skachkov <danil.skachkov@speaktoit.com> (https://api.ai)",
   "license": "Apache-2.0",
   "dependencies": {
-    "apiai": "^3.0.3",
-    "botkit": "^0.4.9",
+    "apiai": "^4.0.3",
+    "botkit": "^0.6.18",
     "html-entities": "^1.2.0",
     "uuid": "^3.0.1"
   }
