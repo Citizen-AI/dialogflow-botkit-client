@@ -21,7 +21,7 @@
   "license": "Apache-2.0",
   "dependencies": {
     "apiai": "^4.0.3",
-    "botkit": "^0.6.18",
+    "botkit": "^0.6.21",
     "html-entities": "^1.2.0",
     "uuid": "^3.0.1"
   }
